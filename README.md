@@ -1,13 +1,13 @@
-**FacebookNotification App 
+# FacebookNotification App 
 A real-time Notification application which run on local server.
 
-**Key Features
+# Key Features
 It can be access by login in the app.
 You can select a user to whom u want to send message .
 
-**OS Support
+# OS Support
 Windows 10
-**Setup
+# Setup
 Install XAMPP server from here according to your operating system (Windows/MacOS/Linux).
 Simply install it.
 Install and Run
